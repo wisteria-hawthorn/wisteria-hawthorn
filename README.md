@@ -2,7 +2,7 @@
 
 <ul>
   <li> AKA 🪴 Wisteria
-  <li> was 🛠 prof artist
+  <li> was 🛠 3D artist
   <li> now 🌱 coding novice (js, python, html, css)
   <li> interests 🔍 accessibility, home automation, access to learning
   <li> loves 🫀 building stuff, japanese food, video games, learning languages
