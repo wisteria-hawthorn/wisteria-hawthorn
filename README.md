@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1> H e l l o !</h1>
 
-<!--
-**wisteria-hawthorn/wisteria-hawthorn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<ul>
+  <li> AKA 🪴 Wisteria
+  <li> was 🛠 prof artist
+  <li> now 🌱 coding novice (js, python, html, css)
+  <li> interests 🔍 accessibility, home automation, access to learning
+  <li> loves 🫀 building stuff, japanese food, video games, learning languages
+  <li> hates 🥀 decaf coffee, the command line 
+  <li> goals 🤝 to develop assistive technology
+</ul>
 
-Here are some ideas to get you started:
+<img src="https://media.giphy.com/media/sxtxMmbHzBYru/giphy.gif" alt="sootsprites" width="200px" height="200px">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
