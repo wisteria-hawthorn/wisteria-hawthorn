@@ -6,7 +6,7 @@
   <li> now 🌱 coding novice (js, python, html, css)
   <li> interests 🔍 accessibility, home automation, access to learning
   <li> loves 🫀 building stuff, japanese food, video games, learning languages
-  <li> hates 🥀 decaf coffee, the command line 
+  <li> hates 🥀 decaf coffee 
   <li> goals 🤝 to develop assistive technology
 </ul>
 
