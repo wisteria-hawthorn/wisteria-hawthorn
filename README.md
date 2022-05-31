@@ -1,7 +1,7 @@
 <h1> H e l l o !</h1>
 
 <ul>
-  <li> AKA 🪴 Wisteria
+  <li> 🪴 M a r i 
   <li> was 🛠 3D artist
   <li> now 🌱 coding novice (js, python, html, css)
   <li> interests 🔍 accessibility, home automation, access to learning
