@@ -2,8 +2,9 @@
 
 <ul>
   <li> 🪴 M a r i 
+  <li> 🎓 SoC Graduate
   <li> was 🛠 3D artist
-  <li> now 🌱 coding novice (js, python, html, css)
+  <li> now 🌱 Junior Developer (js, python, html, css)
   <li> interests 🔍 accessibility, home automation, access to learning
   <li> loves 🫀 building stuff, japanese food, video games, learning languages
   <li> hates 🥀 decaf coffee 
