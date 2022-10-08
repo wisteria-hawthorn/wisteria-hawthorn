@@ -11,7 +11,7 @@
   <li> goals 🤝 to develop assistive technology
 </ul>
 
-<img src="https://media.giphy.com/media/sxtxMmbHzBYru/giphy.gif" alt="sootsprites" width="200px" height="200px">
+<img src="https://media.giphy.com/media/sxtxMmbHzBYru/giphy.gif" alt="sootsprites" width="100px" height="100px">
 
 
 
