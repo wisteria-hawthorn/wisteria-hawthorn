@@ -5,7 +5,7 @@
 <ul>
   <li> M a r i 
   <li> SoC Graduate
-  <li> techstack: (js, react, python, typescript, html, css, PostgreSQL, node.js, jest)
+  <li> techstack: ( javascript, react, python, typescript, html, css, PostgreSQL, node.js, jest )
   <li> interests: accessibility, smart home automation, UX & UI, accessible learning
   <li> contact: <a href="www.linkedin.com/in/mari-lovell">LinkedIn</a>
 </ul>
