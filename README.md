@@ -1,17 +1,11 @@
+<img width="1067" alt="mari lovell fullstack developer" src="https://user-images.githubusercontent.com/92452890/194732013-b66ef64a-e10b-4af1-a70f-130e566aafd9.png">
+
 <h1> H e l l o !</h1>
 
 <ul>
-  <li> 🪴 M a r i 
-  <li> 🎓 SoC Graduate
-  <li> was 🛠 3D artist
-  <li> now 🌱 Junior Developer (js, python, html, css)
-  <li> interests 🔍 accessibility, home automation, access to learning
-  <li> loves 🫀 building stuff, japanese food, video games, learning languages
-  <li> hates 🥀 decaf coffee 
-  <li> goals 🤝 to develop assistive technology
+  <li> M a r i 
+  <li> SoC Graduate
+  <li> techstack: (js, react, python, typescript, html, css, PostgreSQL, node.js, jest)
+  <li> interests: accessibility, smart home automation, UX & UI, accessible learning
+  <li> conact: <a href="www.linkedin.com/in/mari-lovell">LinkedIn</a>
 </ul>
-
-<img src="https://media.giphy.com/media/sxtxMmbHzBYru/giphy.gif" alt="sootsprites" width="100px" height="100px">
-
-
-
