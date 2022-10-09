@@ -7,5 +7,8 @@
   <li> SoC Graduate
   <li> techstack: (js, react, python, typescript, html, css, PostgreSQL, node.js, jest)
   <li> interests: accessibility, smart home automation, UX & UI, accessible learning
-  <li> conact: <a href="www.linkedin.com/in/mari-lovell">LinkedIn</a>
+  <li> contact: <a href="www.linkedin.com/in/mari-lovell">LinkedIn</a>
 </ul>
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=wisteria-hawthorn&theme=elegant&border_radius=6&date_format=j%20M%5B%20Y%5D&currStreakNum=7EFFCE)](https://git.io/streak-stats)
