@@ -3,7 +3,7 @@
 <h1> H e l l o !</h1>
 
 <ul>
-  <li> M a r i 
+  <li> Mari 
   <li> SoC Graduate
   <li> techstack: ( javascript, react, python, typescript, html, css, PostgreSQL, node.js, jest )
   <li> interests: accessibility, smart home automation, UX & UI, accessible learning
