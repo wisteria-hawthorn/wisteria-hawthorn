@@ -10,7 +10,7 @@
   <li> tech stack [ JavaScript, React, Python, TypeScript, HTML, CSS, PostgreSQL, Node.js, Jest ]
   <li> interests [ accessibility, assistive technology, smart home automation, UX & UI ]
   <li> contact { <a href="www.linkedin.com/in/mari-lovell">LinkedIn</a> }
+  <li> portfolio { <a href="https://mari-lovell.netlify.app/">mari-lovell</a> }
 </ul>
-
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=wisteria-hawthorn&theme=elegant&border_radius=6&date_format=j%20M%5B%20Y%5D&currStreakNum=7EFFCE)](https://git.io/streak-stats)
