@@ -7,9 +7,9 @@
 <ul>
   <li> Mari Lovell
   <li> Full Stack Developer
-  <li> techstack: ( JavaScript, React, Python, TypeScript, HTML, CSS, PostgreSQL, Node.js, Jest )
-  <li> interests: accessibility, smart home automation, UX & UI, accessible learning
-  <li> contact: <a href="www.linkedin.com/in/mari-lovell">LinkedIn</a>
+  <li> techstack: { JavaScript, React, Python, TypeScript, HTML, CSS, PostgreSQL, Node.js, Jest }
+  <li> interests: { accessibility, assistive technology, smart home automation, UX & UI }
+  <li> contact: { <a href="www.linkedin.com/in/mari-lovell">LinkedIn</a> }
 </ul>
 
 
